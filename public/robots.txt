@@ -1,0 +1,10 @@
+# Permitir todos os bots
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://seudominio.com/sitemap.xml
+
+# Bloquear apenas arquivos internos
+Disallow: /api/
+Disallow: /_next/
